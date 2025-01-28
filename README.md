@@ -1,4 +1,4 @@
-- ##👋 Hi, I’m Omar M. Data Analyst
+- 👋 Hi, I’m Omar M. Data Analyst
   
 - As a proficient Data Analyst with [X] years of experience in data manipulation, statistical analysis, and data visualization, I leverage my expertise to transform complex datasets into       actionable insights. My strong analytical skills, combined with a deep understanding of industry tools such as SQL, Python, R, and Tableau, enable me to drive data-driven decision-          making.
 
